@@ -1,0 +1,12 @@
+{
+	/*"font_face":"Cascadia Code"*/
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "auto",
+	"theme": "Adaptive.sublime-theme",
+	"dark_color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"light_color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+}

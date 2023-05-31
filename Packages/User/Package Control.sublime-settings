@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C Improved",
+		"FileIcons",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarMenuAdvanced",
+		"Theme - Cyanide",
+		"Theme - SoDaReloaded",
+		"Xdebug Client",
+	],
+}
