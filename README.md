@@ -15,4 +15,7 @@ Table below shows the packages I found useful considering the fact the main purp
 In order to install the mentioned instead of copying, press ```Ctrl+Shift+P``` button, select **Install Packages** and type the name for each package.  
 ## Update Check 
 Having the latest version is not essential here, so we will have to turn them off using Settings in Preferences, and adding up the following bit to the right hand side:  
+  
 ```"update_check": false```
+  
+This should fix the issue. 
