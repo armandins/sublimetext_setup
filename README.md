@@ -18,4 +18,8 @@ Having the latest version is not essential here, so we will have to turn them of
   
 ```"update_check": false```
   
-This should fix the issue. 
+This should fix the issue.  
+## Font Preference
+I use the font Cascadia Code by Microsoft, which is available through a simple search in their Github profile. In order to apply the font to Sublime Text, we head to Preferences, Settings and copy and paste the line of code below and restart the client assuming Cascadia Code is already installed on the computer.  
+  
+```"font_face":"Cascadia Code"```
