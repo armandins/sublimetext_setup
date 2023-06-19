@@ -27,10 +27,12 @@ I use the font Cascadia Code by Microsoft, which is available through a simple s
 ## Terminus Keybindings
 In order to start Terminus, which manages to run command prompt within Sublime Text, in a working directory, we will need to setup the keybinding below:   
   
-```[
+```c
+[
     { 
         "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
             "cwd": "${file_path:${folder}}"
         }
     }
-]```
+]
+```
