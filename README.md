@@ -7,6 +7,7 @@ Table below shows the packages I found useful considering the fact the main purp
 
 | Package Name  | Links to the Package Control website                   |
 |---------------|--------------------------------------------------------|
+| Terminus      | https://packagecontrol.io/packages/Terminus            |
 | SideBarEnhanc | https://packagecontrol.io/packages/SideBarEnhancements |
 | FileIcons     | https://packagecontrol.io/packages/FileIcons           |
 | C Improved    | https://packagecontrol.io/packages/C%20Improved        |
@@ -23,3 +24,13 @@ This should fix the issue.
 I use the font Cascadia Code by Microsoft, which is available through a simple search in their Github profile. In order to apply the font to Sublime Text, we head to Preferences, Settings and copy and paste the line of code below and restart the client assuming Cascadia Code is already installed on the computer.  
   
 ```"font_face":"Cascadia Code"```
+## Terminus Keybindings
+In order to start Terminus, which manages to run command prompt within Sublime Text, in a working directory, we will need to setup the keybinding below:   
+  
+```[
+    { 
+        "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+            "cwd": "${file_path:${folder}}"
+        }
+    }
+]```
