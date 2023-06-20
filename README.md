@@ -23,7 +23,9 @@ This should fix the issue.
 ## Font Preference
 I use the font Cascadia Code by Microsoft, which is available through a simple search in their Github profile. In order to apply the font to Sublime Text, we head to Preferences, Settings and copy and paste the line of code below and restart the client assuming Cascadia Code is already installed on the computer.  
   
-```"font_face":"Cascadia Code"```
+```c
+"font_face":"Cascadia Code"
+```
 ## Terminus Keybindings
 In order to start Terminus, which manages to run command prompt within Sublime Text, in a working directory, we will need to setup the keybinding below:   
   
