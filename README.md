@@ -39,8 +39,8 @@ In order to start Terminus, which manages to run command prompt within Sublime T
 ]
 ```
 ## Creating a Build System with Terminus
-Every build system in Sublime Text comes with a format .sublime-build, therefore a copy of C/C++ builder file is required which could be find via searching vpf ( View Package Files ) . Add the two commands below in order to set Terminus up instead of default shell.  
+Every build system in Sublime Text comes with a format .sublime-build, therefore a copy of C/C++ builder file is required which could be found via searching for vpf ( View Package Files ) . Add the two commands below in order to set Terminus up instead of default shell.  
 ```c
-  "target": "terminus_exec",
+	"target": "terminus_exec",
 	"cancel": "terminus_cancel_build",
 ```
