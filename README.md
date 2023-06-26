@@ -11,7 +11,7 @@ Table below shows the packages I found useful considering the fact the main purp
 | SideBarEnhanc | https://packagecontrol.io/packages/SideBarEnhancements |
 | FileIcons     | https://packagecontrol.io/packages/FileIcons           |
 | C Improved    | https://packagecontrol.io/packages/C%20Improved        |
-| LaTeXYZ       | https://packagecontrol.io/packages/LaTeXYZ        |
+| SublimeLinter | https://packagecontrol.io/packages/SublimeLinter       |
 ## Guide to Installing Packages Manually
 In order to install the mentioned instead of copying, press ```Ctrl+Shift+P``` button, select **Install Packages** and type the name for each package.  
 ## Update Check 
