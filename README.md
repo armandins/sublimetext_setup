@@ -5,7 +5,7 @@ This repo contains the files to my personal Sublime Text setup and the list of a
   
 Table below shows the packages I found useful considering the fact the main purpose for using Sublime was finding the most efficient way to code in C / C++ / simple LaTeX notes / basic non-scientific Python.  
 
-<p align="center"> 
+
 | Package Name  | Links to the Package Control website                   |
 |---------------|--------------------------------------------------------|
 | Terminus      | https://packagecontrol.io/packages/Terminus            |
@@ -13,7 +13,7 @@ Table below shows the packages I found useful considering the fact the main purp
 | FileIcons     | https://packagecontrol.io/packages/FileIcons           |
 | C Improved    | https://packagecontrol.io/packages/C%20Improved        |
 | SublimeLinter | https://packagecontrol.io/packages/SublimeLinter       |
-</p>
+
 	## Guide to Installing Packages Manually
 In order to install the mentioned instead of copying, press ```Ctrl+Shift+P``` button, select **Install Packages** and type the name for each package.  
 ## Update Check 
