@@ -13,6 +13,7 @@ Table below shows the packages I found useful considering the fact the main purp
 | FileIcons     | https://packagecontrol.io/packages/FileIcons           |
 | C Improved    | https://packagecontrol.io/packages/C%20Improved        |
 | SublimeLinter | https://packagecontrol.io/packages/SublimeLinter       |  
+| PDSSnippets   | https://packagecontrol.io/packages/Python%20Data%20Science%20Snippets|  
 
 ## Guide to Installing Packages Manually
 In order to install the mentioned instead of copying, press ```Ctrl+Shift+P``` button, select **Install Packages** and type the name for each package.  
